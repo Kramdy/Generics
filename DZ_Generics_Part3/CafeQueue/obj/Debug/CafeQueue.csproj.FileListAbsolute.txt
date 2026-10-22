@@ -1,0 +1,6 @@
+D:\С#\DZ_Generics_Part3\CafeQueue\bin\Debug\CafeQueue.exe
+D:\С#\DZ_Generics_Part3\CafeQueue\bin\Debug\CafeQueue.pdb
+D:\С#\DZ_Generics_Part3\CafeQueue\obj\Debug\CafeQueue.csproj.AssemblyReference.cache
+D:\С#\DZ_Generics_Part3\CafeQueue\obj\Debug\CafeQueue.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Generics_Part3\CafeQueue\obj\Debug\CafeQueue.exe
+D:\С#\DZ_Generics_Part3\CafeQueue\obj\Debug\CafeQueue.pdb

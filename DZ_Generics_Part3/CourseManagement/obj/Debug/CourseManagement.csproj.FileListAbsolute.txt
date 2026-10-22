@@ -1,0 +1,6 @@
+D:\С#\DZ_Generics_Part3\CourseManagement\bin\Debug\CourseManagement.exe
+D:\С#\DZ_Generics_Part3\CourseManagement\bin\Debug\CourseManagement.pdb
+D:\С#\DZ_Generics_Part3\CourseManagement\obj\Debug\CourseManagement.csproj.AssemblyReference.cache
+D:\С#\DZ_Generics_Part3\CourseManagement\obj\Debug\CourseManagement.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Generics_Part3\CourseManagement\obj\Debug\CourseManagement.exe
+D:\С#\DZ_Generics_Part3\CourseManagement\obj\Debug\CourseManagement.pdb

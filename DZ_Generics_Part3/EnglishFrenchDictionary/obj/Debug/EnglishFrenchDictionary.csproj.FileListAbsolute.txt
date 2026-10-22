@@ -1,0 +1,6 @@
+D:\С#\DZ_Generics_Part3\EnglishFrenchDictionary\bin\Debug\EnglishFrenchDictionary.exe
+D:\С#\DZ_Generics_Part3\EnglishFrenchDictionary\bin\Debug\EnglishFrenchDictionary.pdb
+D:\С#\DZ_Generics_Part3\EnglishFrenchDictionary\obj\Debug\EnglishFrenchDictionary.csproj.AssemblyReference.cache
+D:\С#\DZ_Generics_Part3\EnglishFrenchDictionary\obj\Debug\EnglishFrenchDictionary.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Generics_Part3\EnglishFrenchDictionary\obj\Debug\EnglishFrenchDictionary.exe
+D:\С#\DZ_Generics_Part3\EnglishFrenchDictionary\obj\Debug\EnglishFrenchDictionary.pdb
